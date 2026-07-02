@@ -1,6 +1,5 @@
-<svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="200" height="80" fill="#04111D"/>
-  <path d="M30 16L30 64H42C54.8568 64 66 52.8568 66 40C66 27.1432 54.8568 16 42 16H30ZM42 56C49.732 56 56 49.732 56 43.2C56 36.668 49.732 30.4 42 30.4H34V56H42Z" fill="white"/>
-  <path d="M42 43.2L49 36.8V49.6L42 43.2Z" fill="#04111D"/>
-  <text x="78" y="52" fill="white" font-size="28" font-weight="bold" font-family="-apple-system, BlinkMacSystemFont, sans-serif">爆雪科技</text>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#04111D" rx="8"/>
+  <path d="M20 12C20 12 20 52 20 52H28C38.5 52 46 44.5 46 34C46 23.5 38.5 16 28 16H20V12Z" fill="white"/>
+  <path d="M32 22L40 28V36L32 42L24 36V28L32 22Z" fill="#04111D"/>
 </svg>
