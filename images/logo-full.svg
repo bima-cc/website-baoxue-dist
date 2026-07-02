@@ -1,0 +1,7 @@
+<svg width="280" height="100" viewBox="0 0 280 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="100" fill="#04111D"/>
+  <path d="M38 20L38 80H52C68.5685 80 82 66.5685 82 50C82 33.4315 68.5685 20 52 20H38ZM52 70C60.8366 70 68 62.8366 68 54C68 45.1634 60.8366 38 52 38H42V70H52Z" fill="white"/>
+  <path d="M52 54L60 46V62L52 54Z" fill="#04111D"/>
+  <text x="95" y="58" fill="white" font-size="36" font-weight="bold" font-family="-apple-system, BlinkMacSystemFont, sans-serif">爆雪科技</text>
+  <text x="95" y="80" fill="white" font-size="14" font-family="-apple-system, BlinkMacSystemFont, sans-serif">BAOXUE Technologies</text>
+</svg>
